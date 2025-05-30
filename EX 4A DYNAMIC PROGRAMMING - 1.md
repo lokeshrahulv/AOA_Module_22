@@ -19,8 +19,8 @@ To find longest common subsequence using Dynamic Programming.
 Program to implement the longest common subsequence using Dynamic Programming
 
 .
-Developed by: ASHWIN KUMAR S
-Register Number: 212222240013
+Developed by:  LOKESH RAHUL V V
+Register Number: 212222100024
 */
 ```
 ```
